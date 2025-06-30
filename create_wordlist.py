@@ -1,3 +1,5 @@
+# create_wordlist.py
+
 import sys
 from pathlib import Path
 from string import ascii_letters
